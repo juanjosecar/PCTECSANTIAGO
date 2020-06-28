@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCTECSANTIAGO", "PCTECSANTIAGO.csproj", "{4490ABD9-36DA-4035-BB4F-29749273F7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaValidaciones_PCTECSANTIAGO", "..\LibreriaValidaciones_PCTECSANTIAGO\LibreriaValidaciones_PCTECSANTIAGO.csproj", "{AA806350-6AED-4A9C-821B-09A0D197856D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4490ABD9-36DA-4035-BB4F-29749273F7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4490ABD9-36DA-4035-BB4F-29749273F7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4490ABD9-36DA-4035-BB4F-29749273F7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4490ABD9-36DA-4035-BB4F-29749273F7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA806350-6AED-4A9C-821B-09A0D197856D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA806350-6AED-4A9C-821B-09A0D197856D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA806350-6AED-4A9C-821B-09A0D197856D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA806350-6AED-4A9C-821B-09A0D197856D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC6086F-2493-45AA-A25C-51104610F4C6}
+	EndGlobalSection
+EndGlobal
